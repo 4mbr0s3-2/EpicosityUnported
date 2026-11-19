@@ -1,4 +1,4 @@
-# Epicosity (Old, Unported code from tModLoader v0.11.8.9)
+# Epicosity (Old, Unported code from tModLoader v0.11.8.5)
 
 <h3 align="center">
 Unfinished and unported experimental Terraria mod code and assets from 2021.
