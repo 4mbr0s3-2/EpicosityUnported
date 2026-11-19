@@ -1,0 +1,2 @@
+128x256 sprite of Cirno
+This was supposed to be my old pixel art rendition but it's kinda jank and traces ZUN's original sprite

@@ -1,0 +1,10 @@
+.vs
+Properties
+bin
+obj
+*.bak
+*.aseprite
+Effects/Shaders/FXCompiler
+*.psd
+*.ai
+*.aep

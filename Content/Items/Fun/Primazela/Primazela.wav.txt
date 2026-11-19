@@ -1,0 +1,2 @@
+Conveniently, wowozela is open source, and you can download this sound effect right here!!
+https://github.com/CapsAdmin/wowozela/blob/master/sound/wowozela/samples/voices/prima.ogg

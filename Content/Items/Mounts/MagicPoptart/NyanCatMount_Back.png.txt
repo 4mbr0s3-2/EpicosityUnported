@@ -1,0 +1,3 @@
+Nyan Cat is copyrighted! Can you believe it?
+The spritesheet is 68 x 588 and consists of an animation of Nyan Cat running and facing right.
+The first 10 frames from the top is the idle animation loop.

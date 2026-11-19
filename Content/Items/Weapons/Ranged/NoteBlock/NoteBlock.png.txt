@@ -1,0 +1,2 @@
+It's a scaled down, 16x16 (double-pixel 8x8) sprite of the Minecraft Note Block.
+I'm also pretty sure that MinecraftNote.png is just the particle.
