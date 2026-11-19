@@ -4,6 +4,8 @@
 Unfinished and unported experimental Terraria mod code and assets from 2021.
 </h3>
 
+This repository doesn't build, by the way.
+
 Copyrighted assets and sound effects have been replaced with a `.txt` file describing what they are.
 
 Some content from the original mod has also been intentionally excluded.
